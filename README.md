@@ -25,8 +25,10 @@ To run this project, ensure you have the following libraries installed:
 
 # Usage 🚀
 -Clone this repository:
+
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+
 -Run the Jupyter Notebook to execute the data analysis.
 
 # Data Description 📄
@@ -47,10 +49,15 @@ The dataset used in this project is the Shipment Orders Dataset, which contains 
 
 # Key Features ⭐
 -Data cleaning and preprocessing.
+
 -Calculation of selling prices and profit margins.
+
 -Grouping and aggregating data for insightful metrics.
+
 -SQL database integration for data storage and retrieval.
+
 -Comprehensive queries to extract meaningful information.
+
 # Data Analysis 📈
 ### Sample Queries
 -Top 10 Highest Profit Generating Products 🏆
