@@ -3,18 +3,26 @@
 This project focuses on analyzing shipment order data using Python, Pandas, and SQL. The aim is to derive insights related to sales performance, profit margins, and product trends. 📊
 Table of Contents
 -Installation
+
 -Usage
+
 -Data Description
+
 -Key Features
+
 -Data Analysis
 
 # Installation 🛠️
 To run this project, ensure you have the following libraries installed:
 
 -pip install kaggle pandas sqlalchemy pymysql mysql-connector-python
+
 -Setting Up Kaggle API
+
 -Create a Kaggle account and download your kaggle.json API key. 🗝️
+
 -Place the kaggle.json file in the ~/.kaggle/ directory
+
 # Usage 🚀
 -Clone this repository:
 git clone https://github.com/yourusername/your-repo-name.git
