@@ -74,4 +74,4 @@ Here are some snippets from the analysis:
 df['Selling_Price'] = df['List Price'] - df['List Price'] * (df['Discount Percent'] / 100)
 
 ## Grouping by Product Id to find Total Profit
-top_products = df.groupby('Product Id').sum('Total Profit').sort_values(by='Total Profit
+top_products = df.groupby('Product Id').sum('Total Profit').sort_values(by='Total Profit)
