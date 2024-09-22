@@ -26,7 +26,7 @@ To run this project, ensure you have the following libraries installed:
 # Usage 🚀
 -Clone this repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Abhishek-jaiswal03/hipment_Orders_Data_Analytics.git
 cd your-repo-name
 
 -Run the Jupyter Notebook to execute the data analysis.
