@@ -46,9 +46,13 @@ The dataset used in this project is the Shipment Orders Dataset, which contains 
 # Data Analysis 📈
 ### Sample Queries
 -Top 10 Highest Profit Generating Products 🏆
+
 -Distinct Cities Where Orders Have Been Shipped 🌍
+
 -Average Order Value 💹
+
 -Total Sale in Each Region 🌎
+
 # Code Snippets 💻
 Here are some snippets from the analysis:
 ## Calculating Selling Price
