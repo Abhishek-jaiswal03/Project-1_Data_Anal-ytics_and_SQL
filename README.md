@@ -1,5 +1,5 @@
 # 📦Shipment Orders Data Analysis
-## Overview
+### Overview
 This project focuses on analyzing shipment order data using Python, Pandas, and SQL. The aim is to derive insights related to sales performance, profit margins, and product trends. 📊
 Table of Contents
 -Installation
@@ -37,15 +37,15 @@ The dataset used in this project is the Shipment Orders Dataset, which contains 
 -SQL database integration for data storage and retrieval.
 -Comprehensive queries to extract meaningful information.
 # Data Analysis 📈
-# Sample Queries
+### Sample Queries
 -Top 10 Highest Profit Generating Products 🏆
 -Distinct Cities Where Orders Have Been Shipped 🌍
 -Average Order Value 💹
 -Total Sale in Each Region 🌎
-## Code Snippets 💻
+# Code Snippets 💻
 Here are some snippets from the analysis:
-# Calculating Selling Price
+## Calculating Selling Price
 df['Selling_Price'] = df['List Price'] - df['List Price'] * (df['Discount Percent'] / 100)
 
-# Grouping by Product Id to find Total Profit
+## Grouping by Product Id to find Total Profit
 top_products = df.groupby('Product Id').sum('Total Profit').sort_values(by='Total Profit
